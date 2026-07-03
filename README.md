@@ -1,4 +1,4 @@
-# 📰 AI News App
+# 📰 News App
 
 A modern Flask web application that fetches real-time news articles using NewsAPI.
 
