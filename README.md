@@ -1,17 +1,26 @@
-# AI News App
+# 📰 AI News App
 
-A simple Flask application that fetches live technology news using NewsAPI.
+A modern Flask web application that fetches real-time news articles using NewsAPI.
 
-## Installation
+## ✨ Features
 
-```bash
-pip install -r requirements.txt
-```
+- 🔍 Search news by topic
+- 📰 Live news updates
+- 🖼️ News images
+- 📱 Responsive UI
+- 🌙 Modern dark theme
+- ⚡ Fast Flask backend
+- 🔒 API key secured using `.env`
 
-Create a NewsAPI key at https://newsapi.org and place it in `.env`.
+---
 
-Run:
+## 🛠️ Tech Stack
 
-```bash
-python app.py
-```
+- Python
+- Flask
+- HTML5
+- CSS3
+- Requests
+- NewsAPI
+
+---
